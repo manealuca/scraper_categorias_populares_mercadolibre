@@ -1,0 +1,8 @@
+shop_sites:
+  mercadolibre:
+    url: https://www.mercadolibre.com.ar
+    queries:
+      homepage_categorias_links: '.category'
+      article_url: '.dynamic-carousel__item-container'
+      article_title: '.dynamic-carousel__title'
+    
